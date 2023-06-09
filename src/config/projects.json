@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam asperiores doloremque optio neque similique adipisci minima deserunt qui modi atque autem consequatur molestias consectetur veritatis, saepe id inventore nisi eveniet porro, provident ratione mollitia reiciendis ipsa quia? Voluptatibus suscipit esse, quis minima eius dolor, unde sed numquam laudantium atque commodi!",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam asperiores doloremque optio neque similique adipisci minima deserunt qui modi atque autem consequatur molestias consectetur veritatis, saepe id inventore nisi eveniet porro, provident ratione mollitia reiciendis ipsa quia? Voluptatibus suscipit esse, quis minima eius dolor, unde sed numquam laudantium atque commodi!",
+            "image": "images/my_app.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam asperiores doloremque optio neque similique adipisci minima deserunt qui modi atque autem consequatur molestias consectetur veritatis, saepe id inventore nisi eveniet porro, provident ratione mollitia reiciendis ipsa quia? Voluptatibus suscipit esse, quis minima eius dolor, unde sed numquam laudantium atque commodi!",
+            "image": "images/projections.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam asperiores doloremque optio neque similique adipisci minima deserunt qui modi atque autem consequatur molestias consectetur veritatis, saepe id inventore nisi eveniet porro, provident ratione mollitia reiciendis ipsa quia? Voluptatibus suscipit esse, quis minima eius dolor, unde sed numquam laudantium atque commodi!",
+            "image": "images/virtual_reality.svg"
+        }
+    ]
+}
